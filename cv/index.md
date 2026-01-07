@@ -6,7 +6,7 @@ layout: single
 
 You can download my full CV here:
 
-[Download CV (PDF)](/assets/cv/CV_MH_Banabazi.pdf)
+[Download full CV (PDF)](/cv/assets/CV_Mohammad_Hossein_Banabazi.pdf)
 
 ---
 
