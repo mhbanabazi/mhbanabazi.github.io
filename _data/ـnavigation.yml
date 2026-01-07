@@ -1,0 +1,13 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "CV"
+    url: /cv/
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Gallery"
+    url: /gallery/
+  - title: "News"
+    url: /news/
