@@ -4,17 +4,27 @@ permalink: /cv/
 layout: single
 ---
 
-You can download my full CV here:
-
 [Download full CV (PDF)](/cv/assets/CV_Mohammad_Hossein_Banabazi.pdf)
 
 ---
 
-## Education
-(To be filled)
-
 ## Academic Positions
-(To be filled)
+- Postdoctoral Researcher, … (Year–Present)
 
-## Skills
-(To be filled)
+## Education
+- PhD in …, University … (Year)
+- MSc in …
+- BSc in …
+
+## Research Interests
+- Evolutionary genomics
+- Population genetics
+- Bioinformatics and computational biology
+
+## Technical Skills
+- Programming: …
+- Genomics tools: …
+- Statistical methods: …
+
+## Honors & Awards
+- …
