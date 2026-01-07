@@ -4,4 +4,11 @@ permalink: /publications/
 layout: single
 ---
 
-A list of my peer-reviewed publications and preprints will be available here.
+## Peer-reviewed Articles
+- Author(s). Year. **Title**. *Journal*. DOI
+
+## Preprints
+- Author(s). Year. **Title**. *bioRxiv*.
+
+## Manuscripts in Preparation
+- Title (in preparation)
