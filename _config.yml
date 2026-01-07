@@ -1,0 +1,21 @@
+title: "Mohammad Hossein Banabazi"
+description: "Postdoctoral Researcher in Evolutionary Genomics and Bioinformatics"
+url: "https://mhbanabazi.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Mohammad Hossein Banabazi"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Postdoctoral Researcher | Evolutionary Genomics | Bioinformatics"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
