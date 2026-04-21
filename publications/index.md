@@ -15,11 +15,20 @@ Below is a selected list of peer-reviewed publications. Full indexed profiles ar
 
 ---
 
-## Selected Publications
+## Publications by Year
 
 {% assign pubs = site.data.publications | sort: "year" | reverse %}
 
+{% assign current_year = "" %}
+
 {% for p in pubs %}
+
+{% if p.year != current_year %}
+{% assign current_year = p.year %}
+
+## {{ current_year }}
+
+{% endif %}
 
 ### <a href="{{ p.doi }}" target="_blank">{{ p.title }}</a>
 
