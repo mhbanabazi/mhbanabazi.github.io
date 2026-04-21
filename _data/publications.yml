@@ -1,8 +1,8 @@
 # _data/publications.yml
 
-  - year: 2026
-    items:
-      - authors: "Ghaderi-Zefrehei, M., Montazeri-Najafabadi, M., Rafeie, F., Nasre Esfahani, E., Mohammad Reza Abbaszadeh Bavi Soflaei, M. R., Kafi, M., Banabazi, M. H."
+  
+      - year: 2026
+        authors: "Ghaderi-Zefrehei, M., Montazeri-Najafabadi, M., Rafeie, F., Nasre Esfahani, E., Mohammad Reza Abbaszadeh Bavi Soflaei, M. R., Kafi, M., Banabazi, M. H."
         title: "Data mining strategies for understanding birth patterns in dairy cattle: single and multiple birth analysis"
         journal: "Veterinary Medicine and Science"
         volume: "12"
@@ -11,7 +11,8 @@
         doi: "10.1002/vms3.70890"
         role: "Corresponding author"
 
-      - authors: "Nasre Esfahani, E., Ansari Mahyari, S., Ghaderi-Zefrehei, M., Rafeie, F., Javanmard, A., Banabazi, M. H."
+      - year: 2026
+        authors: "Nasre Esfahani, E., Ansari Mahyari, S., Ghaderi-Zefrehei, M., Rafeie, F., Javanmard, A., Banabazi, M. H."
         title: "Integrative structural, genetic, and expression analysis of bovine DGAT1"
         journal: "Frontiers in Animal Science"
         volume: "7"
