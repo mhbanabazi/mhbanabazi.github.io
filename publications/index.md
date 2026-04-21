@@ -6,13 +6,12 @@ layout: single
 
 ## Peer-Reviewed Publications
 
-Below is a selected list of my peer-reviewed publications. A full list is also available on external academic profiles.
+Below is a selected list of peer-reviewed publications. Full indexed profiles are available here:
 
----
-
-### Full profiles
-- Google Scholar: https://scholar.google.com
-- SLUpub (Swedish University of Agricultural Sciences): https://publications.slu.se
+- <a href="https://orcid.org/0000-0002-7873-8123" target="_blank">ORCID</a>
+- <a href="https://shorturl.at/4GGn3" target="_blank">Scopus</a>
+- <a href="https://shorturl.at/eJRln" target="_blank">SLUpub (2022–2025)</a>
+- <a href="https://shorturl.at/8Y491" target="_blank">Google Scholar</a>
 
 ---
 
@@ -22,29 +21,28 @@ Below is a selected list of my peer-reviewed publications. A full list is also a
 
 {% for p in pubs %}
 
-### {{ p.title }}
+### <a href="{{ p.doi }}" target="_blank">{{ p.title }}</a>
 
-**{{ p.authors }}** ({{ p.year }})  
-{{ p.journal }} {{ p.volume }} {{ p.pages }}
+{{ p.authors }} ({{ p.year }}).  
+*{{ p.journal }}{% if p.volume != "" %}, {{ p.volume }}{% endif %}{% if p.pages != "" %}, {{ p.pages }}{% endif %}.*
 
-*{{ p.role }}*
+{{ p.role }}
 
 ---
 
 {% endfor %}
 
----
+## Research Areas
 
-## Research Topics Represented
-
-- Evolutionary and population genomics  
-- Transcriptomics and RNA-Seq  
+- Population and evolutionary genomics  
+- Functional genomics and transcriptomics  
+- Disease resistance genetics  
 - Genomic prediction and breeding  
-- Multi-omics data integration  
-- Transposable elements and genome evolution  
+- Multi-omics integration  
+- Animal biotechnology  
 
 ---
 
-## Manuscripts & Ongoing Work
+## Ongoing Work
 
-Several manuscripts related to transcriptomics, pan-genomics, and genome evolution are currently in preparation or under review.
+Current projects include transcriptomics, pan-genomics, structural variation, livestock resilience, and genome evolution.
