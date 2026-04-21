@@ -36,9 +36,7 @@ Below is a selected list of peer-reviewed publications. Full indexed profiles ar
 *{{ p.journal }}{% if p.volume != "" %}, {{ p.volume }}{% endif %}{% if p.pages != "" %}, {{ p.pages }}{% endif %}.*
 
 {{ p.role }}
-
 ---
-
 {% endfor %}
 
 ## Research Areas
