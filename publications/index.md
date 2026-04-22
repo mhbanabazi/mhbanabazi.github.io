@@ -32,6 +32,7 @@ Below is a selected list of peer-reviewed publications. Full indexed profiles ar
 ### <a href="{{ p.doi }}" target="_blank">{{ p.title }}</a>
 {{ p.authors | replace: "Banabazi, M. H.", "<strong>Banabazi, M. H.</strong>" }} ({{ p.year }}).  
 *{{ p.journal }}{% if p.volume != "" %}, {{ p.volume }}{% endif %}{% if p.pages != "" %}, {{ p.pages }}{% endif %}.*
+
 {{ p.role }}
 ---
 {% endfor %}
