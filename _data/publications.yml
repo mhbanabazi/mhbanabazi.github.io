@@ -90,7 +90,7 @@
   doi: "https://doi.org/10.1007/s11250-024-04002-1"
   role: "Co-author"
   
-  - year: 2024
+- year: 2024
   authors: "Vahedi, S. M., Salek Ardestani, S., Banabazi, M. H. & Clark, F."
   title: "Strong selection signatures for Aleutian disease tolerance acting on novel candidate genes linked to immune and cellular responses in American mink (Neogale vison)"
   journal: "Scientific Reports"
@@ -126,7 +126,7 @@
   doi: "https://doi.org/10.1016/j.ecolind.2023.110835"
   role: "Corresponding author"
   
-  - year: 2023
+- year: 2023
   authors: "Golshani Jourshari, M., Shadparvar, A. A., Ghavi Hossein-Zadeh, N., Rafeie, F., Banabazi, M. H. & Johansson, A. M."
   title: "Genome-wide association study on abdomen depth, head width, hip width, and withers height in native cattle of Guilan (Bos indicus)"
   journal: "PLOS ONE"
@@ -135,7 +135,7 @@
   doi: "https://doi.org/10.1371/journal.pone.0289612"
   role: "Corresponding author"
   
-  - year: 2023
+- year: 2023
   authors: "Vahedi, S. M., Salek Ardestani, S., Brito, L. F., Karimi, K., Pahlavan Afshari, K. & Banabazi, M. H."
   title: "Expanding the application of haplotype-based genomic predictions to the wild: A case of antibody response against Teladorsagia circumcincta in Soay sheep"
   journal: "BMC Genomics"
@@ -162,7 +162,7 @@
   doi: "https://doi.org/10.3390/ani12050582"
   role: "Corresponding author"
   
-  - year: 2022
+- year: 2022
   authors: "Nazari, F., Seyedabadi, H. R., Noshary, A., Emamjomeh-Kashan, N. & Banabazi, M. H."
   title: "A genome-wide scan for signatures of selection in Kurdish horse breed"
   journal: "Journal of Equine Veterinary Science"
@@ -180,7 +180,7 @@
   doi: "https://doi.org/10.1093/jhered/esac004"
   role: "Co-author"
   
-  - year: 2022
+- year: 2022
   authors: "Bitaraf Sani, M., Zare Harofte, J., Banabazi, M. H., Faraz, A., Esmaeilkhanian, S., Naderi, A. S., Salim, N., Teimoori, A., Bitaraf, A., Zadehrahmani, M., Burger, P. A., Asadzadeh, N., Silawi, M., Taghipour Sheshdeh, A., Mohammad Nazari, B., Faghihi, M. A. & Roudbari, Z."
   title: "Identification of candidate genes for pigmentation in camels using genotyping-by-sequencing"
   journal: "Animals"
@@ -225,7 +225,7 @@
   doi: "https://doi.org/10.1590/0001-3765202120191453"
   role: "Co-author"
   
-  - year: 2021
+- year: 2021
   authors: "Bitaraf Sani, M., Zare Harofte, J., Banabazi, M. H., Esmaeilkhanian, S., Shafei Naderi, A., Salim, N., Teimoori, A., Bitaraf, A., Zadehrahmani, M., Burger, P. A., Landi, V., Silawi, M., Taghipour Sheshdeh, A. & Faghihi, M. A."
   title: "Genomic prediction for growth using a low-density SNP panel in dromedary camels"
   journal: "Scientific Reports"
@@ -234,7 +234,7 @@
   doi: "https://doi.org/10.1038/s41598-021-87296-7"
   role: "Co-author"
   
-  - year: 2021
+- year: 2021
   authors: "Nazari, F., Seyedabadi, H. R., Noshary, A., Emamjomeh-Kashan, N. & Banabazi, M. H."
   title: "A genome-wide scan reveals evidence of selection for body size and resistance to insect bites in Kurdish horse breed"
   journal: "SSRN Electronic Journal"
@@ -243,7 +243,7 @@
   doi: "https://ssrn.com/abstract=3967212"
   role: "Co-author"
 
-  - year: 2020
+- year: 2020
   authors: "Lado, S., Elbers, J. P., Doskocil, A., Scaglione, D., Trucchi, E., Banabazi, M. H., Almathen, F., Saitou, N., Ciani, E. & Burger, P. A."
   title: "Genome-wide diversity and global migration patterns in dromedaries follow ancient caravan routes"
   journal: "Communications Biology"
@@ -261,7 +261,7 @@
   doi: "https://doi.org/10.1139/gen-2020-0001"
   role: "Co-author"
   
-  - year: 2020
+- year: 2020
   authors: "Bitaraf Sani, M., Zare Harofte, J., Bitaraf, A., Esmaeilkhanian, S., Banabazi, M. H., Salim, N., Teimoori, A., Shafei Naderi, A., Faghihi, M. A., Burger, P. A., Silawi, M. & Taghipour Sheshdeh, A."
   title: "Genome-wide diversity, population structure and demographic history of dromedaries in the central desert of Iran"
   journal: "Genes"
@@ -270,7 +270,7 @@
   doi: "https://doi.org/10.3390/genes11060599"
   role: "Co-author"
   
-  - year: 2020
+- year: 2020
   authors: "Salek Ardestani, S., Aminafshar, M., Zandi Baghche Maryam, M. B., Banabazi, M. H., Sargolzaei, M. & Miar, Y."
   title: "A genome-wide signatures of selection study of Welsh ponies and draft horses revealed five genes associated with horse type variation"
   journal: "Gene Reports"
@@ -288,7 +288,7 @@
   doi: "https://doi.org/10.1080/1828051X.2020.1745695"
   role: "Co-author"
   
-  - year: 2019
+- year: 2019
   authors: "Canales Vergara, A. M., Landi, V., Delgado Bermejo, J. V., Martínez, A., Cervantes Acosta, P., Pons Barro, Á., Bigi, D., Sponenberg, P., Helal, M., Banabazi, M. H. & Camacho Vallejo, M. E."
   title: "Tracing worldwide turkey genetic diversity using D-loop sequence mitochondrial DNA analysis"
   journal: "Animals"
@@ -315,7 +315,7 @@
   doi: "https://doi.org/10.1073/pnas.1519508113"
   role: "Co-author"
   
-  - year: 2016
+- year: 2016
   authors: "Banabazi, M. H., Najati-Javaremi A., Imumorin, I. G., Ghaderi-Zafrei, M. & Miraei Ashtiani, S. R."
   title: "SNP calling in transcriptome of Holstein cows and their contribution in genetic variance of residual feed intake"
   journal: "Journal of Animal Science"
@@ -324,7 +324,7 @@
   doi: "https://doi.org/10.2527/jas2016.94supplement415a"
   role: "First author"
   
-  - year: 2016
+- year: 2016
   authors: "Asadi, N., Rahimi, A., Ghaheri, M., Kahrizi, D., Bagheri Dehbaghi, M., Khederzadeh, S., Banabazi, M. H., Esmaeilkhanian, S., Veisi, B., Geravandi, M., Karim, H., Vaziri, S., Daneshgar, F. & Zargooshi, J."
   title: "Genetic diversity of the Dwarf honeybee (Apis florea Fabricius, 1787) populations based on microsatellite markers"
   journal: "Cellular and Molecular Biology (Noisy-le-grand)"
@@ -351,7 +351,7 @@
   doi: ""
   role: "Co-author"
   
-  - year: 2014
+- year: 2014
   authors: "Gharahdaghi, A. A., Asadi, N. & Banabazi, M. H."
   title: "Genetic structure of Caspian Sea southern area honeybee populations, based on microsatellite polymorphism"
   journal: "Journal of Livestock Science and Technologies"
@@ -414,7 +414,7 @@
   doi: "https://doi.org/10.1126/science.1170587"
   role: "Co-author"
   
-  - year: 2007
+- year: 2007
   authors: "Amirinia, C., Seyedabadi, H., Banabazi, M. H. & Kamali, M. A."
   title: "Bottleneck study and genetic structure of Iranian Caspian horse population using microsatellites"
   journal: "Pakistan Journal of Biological Sciences"
@@ -441,7 +441,7 @@
   doi: "https://doi.org/10.3923/pjbs.2006.2488.2492"
   role: "Corresponding author"
   
-  - year: 2005
+- year: 2005
   authors: "Javanmard, A., Asadzadeh, N., Banabazi, M. H. & Tavakolian, J."
   title: "The allele and genotype frequencies of bovine pituitary specific transcription factor and leptin genes in Iranian cattle and buffalo populations using PCR-RFLP"
   journal: "Iranian Journal of Biotechnology"
