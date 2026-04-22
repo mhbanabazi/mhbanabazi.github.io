@@ -46,6 +46,15 @@
   role: "First author"
 
 - year: 2025
+  authors: "Masoudi, R., Asadzadeh, N., Sadeghipanah, H., Seyedabadi, H. R., Esmaeilkhanian, S., Banabazi, M. H., Ebadi Tabrizi, A., & Javaheri Barfourooshi, H."
+  title: "Changes in the expression pattern of genes affecting the growth and development of mammary tissue in pregnant Saanen goats in response to dietary fats"
+  journal: "Domestic Animal Endocrinology"
+  volume: "92"
+  pages: "106943"
+  doi: "https://doi.org/10.1016/j.domaniend.2025.106943"
+  role: "Co-author"
+
+- year: 2025
   authors: "Bitaraf Sani, M., Mokhtari, M., Roudbari, Z., Karimi, O., Asadzadeh, N., Almathen, F. & Banabazi, M. H."
   title: "The related SNPs and genes to body size using GWAS-latent variable modeling in dromedaries"
   journal: "BMC Genomics"
@@ -125,6 +134,15 @@
   pages: "110835"
   doi: "https://doi.org/10.1016/j.ecolind.2023.110835"
   role: "Corresponding author"
+
+- year: 2023
+  authors: "Vahedi, S. M., Momen, M., Mousavi, S. F., Banabazi, M. H., Hasanvandi, M.S., Bhatta, M., Amiri Roudbar, M. & Salek Ardestani, S."
+  title: "Population genetic analysis and scans for adaptation and contemporary selection footprints provide genomic insight into aus, indica and japonica rice cultivars diversification"
+  journal: "Journal of Genetics"
+  volume: "102"
+  pages: "43"
+  role: "Co-author"
+  doi: ""
   
 - year: 2023
   authors: "Golshani Jourshari, M., Shadparvar, A. A., Ghavi Hossein-Zadeh, N., Rafeie, F., Banabazi, M. H. & Johansson, A. M."
@@ -161,6 +179,24 @@
   pages: ""
   doi: "https://doi.org/10.3390/ani12050582"
   role: "Corresponding author"
+
+- year: 2022
+  authors: "Vahedi, S. M., Salek Ardestani, S., Pahlevan Afshari, K., Ghoreishifar, S. M., Moghaddaszadeh-Ahrabi, S., Banabazi, M. H. & Brito, L. F."
+  title: "Genome-wide selection signatures and human-mediated introgression events in Bos taurus indicus-influenced composite beef cattle"
+  journal: "Frontiers in Genetics"
+  volume: "13"
+  pages: "844653"
+  doi: "https://doi.org/10.3389/fgene.2022.844653"
+  role: "Co-author"
+  
+- year: 2022
+  authors: "Bitaraf Sani, M., Hosseini, S. A., Asadzadeh, N., Ghavipanje, N., Afshin, M., Jasouri, M., Banabazi, M. H., Esmaeilkhanian, S., Zare Harofte, J., Shafei Naderi, A. & Burger, P. A."
+  title: "A new approach in the evaluation of dairy camels: using test day milk and morphometric records"
+  journal: "Dairy"
+  volume: "3(1)"
+  pages: "78-86"
+  doi: "https://doi.org/10.3390/dairy3010006"
+  role: "Co-author"
   
 - year: 2022
   authors: "Nazari, F., Seyedabadi, H. R., Noshary, A., Emamjomeh-Kashan, N. & Banabazi, M. H."
