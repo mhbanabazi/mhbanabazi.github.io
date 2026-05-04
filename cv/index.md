@@ -4,7 +4,7 @@ permalink: /cv/
 layout: single
 ---
 
-[Download full CV (PDF)](/assets/cv/CV_Mohammad_Hossein_Banabazi.pdf)
+[Download full CV (PDF)](/assets/cv/CV_M.H.BANABAZI_Evolutionary_Genomics_April_2026.pdf)
 
 ---
 
