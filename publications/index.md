@@ -10,7 +10,7 @@ Below is a selected list of peer-reviewed publications. Full indexed profiles ar
 
 - <a href="https://orcid.org/0000-0002-7873-8123" target="_blank">ORCID</a>
 - <a href="https://www.scopus.com/authid/detail.uri?authorId=15130607200" target="_blank">Scopus</a>
-- <a href="https://shorturl.at/eJRln" target="_blank">SLUpub</a>
+- <a href="https://shorturl.at/31Gzu" target="_blank">SLUpub</a>
 - <a href="https://scholar.google.com/citations?user=Hw6egegAAAAJ&hl=en" target="_blank">Google Scholar</a>
 - <a href="https://www.webofscience.com/wos/author/record/AAV-4375-2021" target="_blank">Web of Science</a>
 
